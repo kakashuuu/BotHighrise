@@ -2,6 +2,8 @@
 
 
 crear archivo requirements.txt con este contenido 
+
+
 blinker==1.8.2
 click==8.1.7
 colorama==0.4.6
@@ -12,6 +14,8 @@ markupsafe==2.1.5
 werkzeug==3.0.3
 highrise-bot-sdk==24.1.0
 Instalar todas las dependencias del requeriments con el siguiente comando: 
+
+
 
 pip install -r requirements.txt
 ejecutas con "python run.py"
